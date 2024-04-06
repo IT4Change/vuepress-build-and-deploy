@@ -1,6 +1,6 @@
-name: 'Vuepress deploy'
+name: 'Vuepress Build & Deploy'
 description: 'A GitHub Action to build and publish Vuepress sites to GitHub Pages'
-author: 'Jenkey2011'
+author: 'it4c'
 runs:
   using: 'docker'
   image: 'Dockerfile'
